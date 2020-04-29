@@ -42,7 +42,7 @@ stream: false
 remux: false
 
 # MP3 bitrate when converting (in kbit/s)
-audioBitrate: 320
+audioBitrate: 128
 
 # App name
 appName: AllTube Download
